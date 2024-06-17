@@ -1,6 +1,6 @@
 # Brawlers-Fighting-Game
 
-![Brawlers-Fighting-Game](https://github.com/kash2104/gsoc-issue-tracker/assets/123300261/00e40463-bebb-402e-810d-0b0d70983cb2) <!-- Replace with your banner image -->
+<img src="https://github.com/kash2104/gsoc-issue-tracker/assets/123300261/00e40463-bebb-402e-810d-0b0d70983cb2" alt="Brawlers-Fighting-Game" style="width: 400px; height: 400px; max-width: 100%;" />
 
 Welcome to **Brawlers-Fighting-Game**, an exciting two-player fighting game inspired by Tekken. This game features a fierce battle between two fighters: a Wizard and a Warrior, each vying for fortune and glory. 
 
