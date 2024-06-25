@@ -79,3 +79,7 @@ To start the game, run the following command:
 
 ```bash
 python main.py
+```
+
+### Contribution Info
+I am planning to add levels to this game so if some one can help me get good sprite sheets then it would be of great help.
