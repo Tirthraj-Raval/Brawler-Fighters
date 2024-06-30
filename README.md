@@ -82,7 +82,7 @@ python main.py
 ```
 
 ### Contribution Info
-I am planning to add levels to this game so if some one can help me get good sprite sheets then it would be of great help.
+I am planning to add levels to this game so if some one can help me get good sprite sheets then it would be of great help. The sprite sheet for a ew character ben 10 rath is included in the images folder. Take a look and see if you can help me add level to this game with our new character as rath.
 
 ### Note
 You might need to change paths in the imports because the paths are not dynamic. 
